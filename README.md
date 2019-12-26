@@ -1,10 +1,10 @@
 
+
 # MNIST Digit Recognizer
 
- A small project undertaken to get an hands on experience using CNN's and other Computer Vision techniques.
- 
- Problem Statement  : [https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer](https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer)
-The DataSet was downloaded from the Kaggle database 
+A small project undertaken to get an hands on experience using CNN's and other Computer Vision techniques.
+
+The dataset is commonly available for download. I've made the dataset availabe [here](https://github.com/ssanishk/MNIST-Digit-Recognizer/tree/master/Dataset) in the same repository
 
 ## Methodology
 
